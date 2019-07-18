@@ -1,0 +1,299 @@
+ies exceeded with url: /market/rest/quote/AAPL,FB,BABA,MSFT,NVDA,NFLX,JPM,WMT,AM
+ZN,TSLA,IBM,BA,TWX,UPS,UNP,ABBV,CAT,DIS,EA,V,CVX,HD,JNJ,CELG,GS.json?detailFlag=
+ALL (Caused by NewConnectionError('<requests.packages.urllib3.connection.Verifie
+dHTTPSConnection object at 0x0816DFB0>: Failed to establish a new connection: [E
+rrno 11004] getaddrinfo failed',))
+
+Exception in thread Thread-66463:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/JNUG,MCD,WYNN,BIDU,AGN,SWKS,LOW,CRM,GO
+OGL,UTX,FDX,WDC,GLD,ADBE,AMGN,MMM,AXP,HAS,MAR,AVGO,PEP,VLO,VMW,MA,KMB.json?detai
+lFlag=ALL (Caused by NewConnectionError('<requests.packages.urllib3.connection.V
+erifiedHTTPSConnection object at 0x0816D530>: Failed to establish a new connecti
+on: [Errno 11004] getaddrinfo failed',))
+
+Exception in thread Thread-66464:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/STZ,COST,BAC,MU,GE,PBR,AMD,KR,VALE,TWT
+R,SNAP,C,F,CSCO,FCX,VRX,INTC,AMAT,MGM,SQ,M,CMCSA,ABX,TEVA,EBAY.json?detailFlag=A
+LL (Caused by NewConnectionError('<requests.packages.urllib3.connection.Verified
+HTTPSConnection object at 0x080F8210>: Failed to establish a new connection: [Er
+rno 11004] getaddrinfo failed',))
+
+Exception in thread Thread-66465:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/ORCL,JD,WFC,XOM,DAL,X,GM,T,PFE,MS,KMI,
+ROKU,VZ,UAA,MDT,GILD,QCOM,SBUX,BBY,KO,TGT,CVS,PG,ATVI,BMY.json?detailFlag=ALL (C
+aused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPS
+Connection object at 0x080F80D0>: Failed to establish a new connection: [Errno 1
+1004] getaddrinfo failed',))
+
+Exception in thread Thread-66467:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/AAPL,FB,BABA,MSFT,NVDA,NFLX,JPM,WMT,AM
+ZN,TSLA,IBM,BA,TWX,UPS,UNP,ABBV,CAT,DIS,EA,V,CVX,HD,JNJ,CELG,GS.json?detailFlag=
+ALL (Caused by NewConnectionError('<requests.packages.urllib3.connection.Verifie
+dHTTPSConnection object at 0x0816D430>: Failed to establish a new connection: [E
+rrno 11004] getaddrinfo failed',))
+
+Exception in thread Thread-66468:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/JNUG,MCD,WYNN,BIDU,AGN,SWKS,LOW,CRM,GO
+OGL,UTX,FDX,WDC,GLD,ADBE,AMGN,MMM,AXP,HAS,MAR,AVGO,PEP,VLO,VMW,MA,KMB.json?detai
+lFlag=ALL (Caused by NewConnectionError('<requests.packages.urllib3.connection.V
+erifiedHTTPSConnection object at 0x0810AE70>: Failed to establish a new connecti
+on: [Errno 11004] getaddrinfo failed',))
+
+Exception in thread Thread-66469:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/STZ,COST,BAC,MU,GE,PBR,AMD,KR,VALE,TWT
+R,SNAP,C,F,CSCO,FCX,VRX,INTC,AMAT,MGM,SQ,M,CMCSA,ABX,TEVA,EBAY.json?detailFlag=A
+LL (Caused by NewConnectionError('<requests.packages.urllib3.connection.Verified
+HTTPSConnection object at 0x0810AEF0>: Failed to establish a new connection: [Er
+rno 11004] getaddrinfo failed',))
+
+Exception in thread Thread-66470:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 564, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 379, in accessMethod
+    r = requests.get(url = url, auth=oauth)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPSConnectionPool(host='etws.etrade.com', port=443): Max retr
+ies exceeded with url: /market/rest/quote/ORCL,JD,WFC,XOM,DAL,X,GM,T,PFE,MS,KMI,
+ROKU,VZ,UAA,MDT,GILD,QCOM,SBUX,BBY,KO,TGT,CVS,PG,ATVI,BMY.json?detailFlag=ALL (C
+aused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPS
+Connection object at 0x0810AAF0>: Failed to establish a new connection: [Errno 1
+1004] getaddrinfo failed',))
+
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ETRADE_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK

@@ -1,0 +1,34 @@
+Warning: ETRADE_ Public Rate allowance exceeded by:  1
+Warning: ETRADE_ Public Rate allowance exceeded by:  1
+Exception in thread Thread-6474:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_AllyTK_wr
+apper_rev2.py", line 157, in GET_1minCandle
+    return AllyTK.GET_MarketTimesales(symbol, startdate=today, requestRawData=re
+questRawData, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_AllyTK_re
+v2.py", line 311, in GET_MarketTimesales
+    return accessMethod(url, method = 'GET', params = params, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_AllyTK_re
+v2.py", line 137, in accessMethod
+    r = requests.get(url = url, auth=oauth, params = params)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 488, in reques
+t
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python27\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python27\lib\site-packages\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', error(10054, 'An existing connection wa
+s forcibly closed by the remote host'))

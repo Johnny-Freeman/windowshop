@@ -1,0 +1,26 @@
+{
+  "PlaceEquityOrderResponse": {
+    "EquityOrderResponse": {
+      "allOrNone": false,
+      "orderTime": 1517772752047,
+      "accountId": 54146082,
+      "orderTerm": "GOOD_FOR_DAY",
+      "stopPrice": 0,
+      "symbol": "GOO G",
+      "orderAction": "BUY",
+      "messageList": {
+        "msgDesc": "The market was closed when we received  your order.  It has been entered into our system and will be reviewed prior to market open on the next regular trading day. After market open, please check to make sure your order was  accepted.",
+        "msgCode": 1027
+      },
+      "orderNum": 1518,
+      "limitPrice": 10,
+      "reserveQuantity": 0,
+      "es timatedTotalAmount": 12.95,
+      "quantity": 1,
+      "reserveOrder": false,
+      "symbolDesc": "ALPHABET IN C CAP STK CL C",
+      "priceType": "LIMIT",
+      "estimatedCommission": 2.95
+    }
+  }
+}

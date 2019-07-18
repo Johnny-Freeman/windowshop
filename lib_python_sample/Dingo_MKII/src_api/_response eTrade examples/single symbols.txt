@@ -1,0 +1,57 @@
+{
+  u'quoteResponse': {
+    u'quoteData': {
+      u'all': {
+        u'lastTrade': 353.87,
+        u'primaryExchange': u'Q',
+        u'exDivDate': u'',
+        u'high': 0,
+        u'optionUnderlier': u'',
+        u'optionStyle': u'',
+        u'bidSize': 0,
+        u'highBid': 0,
+        u'exchgLastTrade': u'Pacific',
+        u'open': 0,
+        u'bidExchange': u'K',
+        u'highAsk': 0,
+        u'lowAsk': 0,
+        u'volume10Day': 17085828,
+        u'prevDayVolume': 15587670,
+        u'companyName': u'APPLE INC',
+        u'chgClosePrcn': 0.09,
+        u'symbolDesc': u'APPLE INC',
+        u'prevClose': 353.56,
+        u'low52': 199.25,
+        u'low': 0,
+        u'dirLast': u'D',
+        u'high52': 364.9,
+        u'daysToExpiration': 0,
+        u'bidTime': u'00:00:00 EDT 03-15-2011',
+        u'askSize': 0,
+        u'bid': 0,
+        u'upc': 0,
+        u'totalVolume': 0,
+        u'adjNonAdjFlag': False,
+        u'ask': 0,
+        u'dividend': 0,
+        u'annualDividend': 0,
+        u'chgClose': 0.3100000000000023,
+        u'fsi': u'N',
+        u'eps': 15.15,
+        u'askExchange': u'K',
+        u'numTrades': 0,
+        u'estEarnings': 23.021,
+        u'lowBid': 0,
+        u'todayClose': 353.87,
+        u'openInterest': 0,
+        u'askTime': u'00:00:00 EDT 03-15-2011'
+      },
+      u'product': {
+        u'symbol': u'AAPL',
+        u'type': u'EQ',
+        u'exchange': u'Q'
+      },
+      u'dateTime': u'15:15:54 EDT 03-15-2011'
+    }
+  }
+}

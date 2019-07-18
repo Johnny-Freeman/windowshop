@@ -1,0 +1,85 @@
+[
+  {
+    u'order': {
+      u'orderId': 1517,
+      u'allOrNone': False,
+      u'stopPrice': 0,
+      u'legDetails': {
+        u'order edQuantity': 13,
+        u'legNumber': 1,
+        u'symbolDescription': u'INTEL CORP COM',
+        u'orderAction': u'BUY',
+        u'estimatedCommission': 2.95,
+        u'estimatedFees': 0,
+        u'filledQuantity': 0,
+        u'symbolInfo ': {
+          u'symbol': u'INTC'
+        },
+        u'executedPrice': 0
+      },
+      u'replacesOrderId': 1516,
+      u'orderTerm': u'GOO D_UNTIL_CANCEL',
+      u'orderValue': 587.95,
+      u'limitPrice': 45,
+      u'orderStatus': u'OPEN',
+      u'orderT ype': u'EQ',
+      u'orderPlacedTime': 1517729313795L,
+      u'priceType': u'LIMIT'
+    }
+  },
+  {
+    u'order': {
+      u'ord erId': 1516,
+      u'allOrNone': False,
+      u'stopPrice': 0,
+      u'legDetails': {
+        u'orderedQuantity': 13,
+        u'legNumber': 1,
+        u'symbolDescription': u'INTEL CORP COM',
+        u'orderAction': u'BUY',
+        u'estimated Commission': 2.95,
+        u'estimatedFees': 0,
+        u'filledQuantity': 0,
+        u'symbolInfo': {
+          u'symbol': u'I NTC'
+        },
+        u'executedPrice': 0
+      },
+      u'orderTerm': u'GOOD_UNTIL_CANCEL',
+      u'orderValue': 600.95,
+      u're placedByOrderId': 1517,
+      u'limitPrice': 46,
+      u'orderStatus': u'CANCEL_REQUESTED',
+      u'orderType': u'EQ',
+      u'orderPlacedTime': 1517591197687L,
+      u'priceType': u'LIMIT'
+    }
+  },
+  {
+    u'order': {
+      u'orderId ': 1507,
+      u'allOrNone': False,
+      u'stopPrice': 0,
+      u'legDetails': {
+        u'orderedQuantity': 320,
+        u'le gNumber': 1,
+        u'symbolDescription': u'BITCOIN INVT TR SHS',
+        u'orderAction': u'BUY',
+        u'estimat edCommission': 2.95,
+        u'estimatedFees': 0,
+        u'filledQuantity': 0,
+        u'symbolInfo': {
+          u'symbol': u'GBTC'
+        },
+        u'executedPrice': 0
+      },
+      u'orderTerm': u'GOOD_UNTIL_CANCEL',
+      u'orderValue': 18.95,
+      u'l imitPrice': 0.05,
+      u'orderStatus': u'OPEN',
+      u'orderType': u'EQ',
+      u'orderPlacedTime': 1517415529820L,
+      u'priceType': u'LIMIT'
+    }
+  }
+]

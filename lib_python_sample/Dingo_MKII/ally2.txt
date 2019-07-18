@@ -1,0 +1,299 @@
+Warning: ETRADE_ Public Rate allowance exceeded by:  1
+Warning: ETRADE_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"45ef359b-d665-4e0d-baa3-a25b8f35d96d",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:07:31 PM" } }
+AllyTK low-level request error detected
+
+Error in Response: {"Error":"AllyTK low-level request error"}
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"0442d9fa-bf1d-41e5-9744-09cb57c5e860",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:09:02 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"d2b4699d-d7a9-470c-97b6-f92dd47754ab",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:12:47 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"efa1db14-1977-47ab-ae68-026ab1916118",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:16:31 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: {"Error":{"message":"Number of requests exceeded the rate lim
+it set"}}
+
+Error in Response: {"Error":{"message":"Number of requests exceeded the rate lim
+it set"}}
+
+Error in Response: {"Error":{"message":"Number of requests exceeded the rate lim
+it set"}}
+
+Error in Response: {"Error":{"message":"Number of requests exceeded the rate lim
+it set"}}
+
+Error in Response: {"Error":{"message":"Number of requests exceeded the rate lim
+it set"}}
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"42aa948e-f1a9-4663-bd4e-2b35e8673d1e",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:38:02 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"d6bf2656-4cfd-4b07-b182-6e76b1fa33fd",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:42:16 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"4ce6a59c-fb1a-440b-b270-8d196eb2184f",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 2:46:16 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"2beb64d1-1a06-4ffb-be8b-2caf9174dd25",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:04:03 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"53cec4d2-9af2-4920-b553-ae5fcd6790b5",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:08:03 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"ebb0b901-0978-413d-90f8-476388878506",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:11:16 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"e0ece51e-1dfd-47db-a7bc-526faecce2ef",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:16:02 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"4ff1f5fa-4808-422f-b9cd-0db29af295ac",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:19:31 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"4b7c6c60-fed2-464a-9c90-547a2d4a123b",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:20:32 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"3d7dd30d-cfbc-4b1d-b515-78d5f55d373a",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:33:32 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"dfb27a15-caf5-4e25-bec2-f17369a99d25",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:36:32 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"cbb75002-e7a8-4b5b-a28c-8943319d3827",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:50:32 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ETRADE_ Public Rate allowance exceeded by:  1
+Warning45: possible timeout by AllyTK
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"4e4703f6-6da1-425d-bd46-f77002ef095f",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:56:02 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"ae033180-bfdc-4ca6-a204-c48444cf1b8f",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:57:46 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+
+Error in Response: { "response":{ "@id":"94b09cc4-2258-4848-b54e-ed2c548c1978",
+"message":"An error has occurred while processing your request.", "timestamp":"6
+/19/2018 3:58:47 PM" } }
+Warning: ALLYTK_ Public Rate allowance exceeded by:  1
+ETRADE's DataBot process is now idle, ~ready for orders~
+AllyTK's DataBot process is now idle, ~ready for orders~
+IEX's DataBot process is now idle, ~ready for orders~
+Warning45: possible timeout by AllyTK
+Waiting for Market Close, with d_min:  7
+Preparing EOD Setup
+
+AllyTK EOD init skipped due to size of list, will run iteratively
+Logged into eTrade
+Reminder to run LOAD_ExpirationDates(symbol,N)
+Loaded OptionExpiration Dates:  [[22, 6, 2018], [29, 6, 2018]]
+
+Error in Response: {"Error":{"errorCode":1008,"message":"Invalid Symbol"}}
+Issue with getting weekly option chain for: TWX
+Warning: Some options failed to generate strike list see eTrade_failed_options.t
+xt
+eTrade Initiated
+eTrade BOT says Helloworld
+
+{'command': 'INITIATED'}
+Starting IEX Symbol Check
+IEX initiated
+IEX BOT says Helloworld
+
+{'command': 'INITIATED'}
+Making Directory:  data_raw/EOD/2018-06-19/
+Librarian says Helloworld
+
+{'command': 'INITIATED'}
+
+Time(seconds) for EOD Setup Initialization:  304.792999983
+Grabbing EOD data
+
+Error in Response: {"Error":{"errorCode":1008,"message":"Invalid Symbol"}}
+Exception in thread Thread-117388:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\MVP_DataBot__
+eTrade.py", line 116, in RUN_ThreadCycle_DataFunction
+    RUN_OptionDataFunction(PipeOUT)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\MVP_DataBot__
+eTrade.py", line 97, in RUN_OptionDataFunction
+    respString, error_found = GETLIST_OptionNweekData(_list_options, _N_weeklyOp
+tions)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\MVP_DataBot__
+eTrade.py", line 66, in GETLIST_OptionNweekData
+    respString, error_found = API_eTrade.GET_OptionNweekData(list_symbols[i],N)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\processAPI_eT
+rade.py", line 91, in GET_OptionNweekData
+    strikechart = eTrade_wrapper.GET_Option_NweekStrikeList(symbol,N)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 531, in GET_Option_NweekStrikeList
+    CompileStrikePriceStore(symbol, N)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 443, in CompileStrikePriceStore
+    tempchart = GET_StrikeChart_fromChain_byWeek(symbol, dmy_mNfridays)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 399, in GET_StrikeChart_fromChain_byWeek
+    respObj_optionchain = GET_obj_OptionChains(symbol, dmy_Fridays)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 284, in GET_obj_OptionChains
+    pageobj = VET_GET_singleOptionChain(symbol, daymonthyears[0], chainType, ski
+pAdjusted)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 303, in VET_GET_singleOptionChain
+    ResponseObject = pyclass.string2Object(     GET_singleOptionChain(*args, **k
+wargs)  )
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pyclass.py", line 28, in string2Object
+    return importDict_Xeye(json.loads(  str.encode('ascii', 'ignore')   ))
+  File "E:\Python27\lib\json\__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "E:\Python27\lib\json\decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "E:\Python27\lib\json\decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 1 column 2 (char 1)
+

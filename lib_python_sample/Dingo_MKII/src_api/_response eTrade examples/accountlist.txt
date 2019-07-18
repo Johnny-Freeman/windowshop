@@ -1,0 +1,62 @@
+{
+  "json.accountListResponse": {
+    "response": [
+      {
+        "netAccountValue": 9999871.82,
+        "marg inLevel": "MARGIN",
+        "accountDesc": "MyAccount-1",
+        "registrationType": "INDIVIDUA L",
+        "accountId": 30049872
+      },
+      {
+        "netAccountValue": "10086354.52",
+        "marginLevel": "M ARGIN",
+        "accountDesc": "MyAccount-2",
+        "registrationType": "INDIVIDUAL",
+        "account Id": 83405188
+      },
+      {
+        "netAccountValue": "100105468.99",
+        "marginLevel": "CASH",
+        "acco untDesc": "MyAccount-3",
+        "registrationType": "INDIVIDUAL",
+        "accountId": 83405553
+      },
+      {
+        "netAccountValue": "49402774.02",
+        "marginLevel": "MARGIN",
+        "accountDesc": "M yAccount-4",
+        "registrationType": "INDIVIDUAL",
+        "accountId": 83405557
+      },
+      {
+        "netAcco untValue": "100118309.90",
+        "marginLevel": "CASH",
+        "accountDesc": "MyAccount-5",
+        "registrationType": "INDIVIDUAL",
+        "accountId": 83406373
+      },
+      {
+        "netAccountValue": "1 0086354.52",
+        "marginLevel": "MARGIN",
+        "accountDesc": "MyAccount-6",
+        "registratio nType": "INDIVIDUAL",
+        "accountId": 83412346
+      },
+      {
+        "netAccountValue": "100105466.00",
+        "marginLevel": "CASH",
+        "accountDesc": "MyAccount-7",
+        "registrationType": "INDI VIDUAL",
+        "accountId": 83412345
+      },
+      {
+        "netAccountValue": 99794.13,
+        "marginLevel": "C ASH",
+        "accountDesc": "SIMPLE IRA",
+        "registrationType": "IRA",
+        "accountId": 83491757
+      }
+    ]
+  }
+}

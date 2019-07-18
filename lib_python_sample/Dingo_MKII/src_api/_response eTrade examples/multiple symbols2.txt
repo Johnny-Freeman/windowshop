@@ -1,0 +1,22 @@
+
+{"quoteResponse":{"quoteData":[{"all":{"adjNonAdjFlag":false,"annualDividend":2.52,"ask":166
+.59,"askExchange":"K","askSize":100,"askTime":"19:34:53 EDT 04-02-2018","bid":166.5,"bidExch
+ange":"K","bidSize":1100,"bidTime":"19:34:53 EDT 04-02-2018","chgClose":-1.2800000000000011,
+"chgClosePrcn":-0.76,"companyName":"APPLE INC","daysToExpiration":0,"dirLast":"D","dividend"
+:0.63,"eps":9.73,"estEarnings":11.441,"exDivDate":"02\/09\/2018","exchgLastTrade":"","fsi":"
+N","high":168.94,"high52":183.5,"highAsk":170.8,"highBid":168.94,"lastTrade":166.5,"low":164
+.47,"low52":140.06,"lowAsk":164.49,"lowBid":164.47,"numTrades":183296,"open":167.88,"openInt
+erest":0,"optionStyle":"","optionUnderlier":"","prevClose":167.78,"prevDayVolume":38377634,"
+primaryExchange":"Q ","symbolDesc":"APPLE INC","todayClose":166.68,"totalVolume":37567929,"u
+pc":0,"volume10Day":35495145},"dateTime":"19:34:53 EDT 04-02-2018","product":{"symbol":"AAPL
+","type":"EQ","exchange":"Q "}},{"all":{"adjNonAdjFlag":false,"annualDividend":0,"ask":252,"
+askExchange":"Q","askSize":300,"askTime":"19:34:57 EDT 04-02-2018","bid":251.51,"bidExchange
+":"P","bidSize":100,"bidTime":"19:34:57 EDT 04-02-2018","chgClose":-14.129999999999995,"chgC
+losePrcn":-5.31,"companyName":"TESLA INC","daysToExpiration":0,"dirLast":"U","dividend":0,"e
+ps":-11.83,"estEarnings":-6.46,"exDivDate":"","exchgLastTrade":"NASDAQ","fsi":"N","high":260
+.3318,"high52":389.61,"highAsk":260.69,"highBid":260.04,"lastTrade":252,"low":244.5901,"low5
+2":244.5901,"lowAsk":244.68,"lowBid":244.55,"numTrades":68761,"open":256.26,"openInterest":0
+,"optionStyle":"","optionUnderlier":"","prevClose":266.13,"prevDayVolume":15116286,"primaryE
+xchange":"Q ","symbolDesc":"TESLA INC","todayClose":252.48,"totalVolume":16110913,"upc":0,"v
+olume10Day":8573239},"dateTime":"19:34:25 EDT 04-02-2018","product":{"symbol":"TSLA","type":
+"EQ","exchange":"Q "}}]}}

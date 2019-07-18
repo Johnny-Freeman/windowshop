@@ -1,0 +1,94 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link TYPE="text/css" HREF="https://cdn.etrade.net/1/20180206.0/stylesheet/prospect.css" REL="stylesheet">
+</head>
+<body>
+<style>
+                    body {
+                        font:11px Arial,Helvetica,sans-serif;
+                    }
+                    .api-container {
+                        border:1px solid #ccc;
+                        width:760px;
+                        margin:10px;
+                    }
+                    .api-inner-container {
+                        height:275px;
+                        border:1px solid #fff;
+                        padding:10px 15px 15px 15px;
+                        text-align:left;
+                        background:url("https://cdn.etrade.net/1/20180206.0/images/237x75_banner_bg.jpg") repeat-x scroll center bottom transparent;
+                    }
+                    .api-header{
+                        margin:10px 0;
+                        padding:10px;
+                        height:20px;
+                        width:760px;
+                    }
+                    .subheaderLeft,.clearAll {
+                        clear:both;
+                    }
+                    
+                    .subheaderLeft ul{
+                        margin-left:13px
+                    }
+                    
+                    .subheaderLeft ul li{
+                        padding:0
+                    }
+                    
+                    .api-title-cont{
+                        border-bottom:1px dotted #D4D4D4
+                    }
+                    
+                    .api-title{
+                        color:#7CA500;
+                        font-size:16px;
+                        font-weight:bold;
+                        width:100%;
+                        text-align:left
+                    }
+                    
+                    .api-footer{
+                    
+                        font-size:10px;
+                    }
+                    
+                </style>
+<div class="api-header">
+<div class="float-left">
+<img HEIGHT="27" WIDTH="189" ALT="E*TRADE FINANCIAL" SRC="https://cdn.etrade.net/1/20180206.0/images/prospect/web20/misc/logo_etrade.gif"></div>
+<div class="float-right">
+<img ALT="" SRC="/e/t/etws/getimage?consumer_key=db1ae8b54eb51ea6dea72614a6a8cc4e"></div>
+</div>
+<div class="api-container">
+<div class="api-inner-container">
+<table width="100%" class="api-title-cont">
+<tr>
+<td><img ALT="E*TRADE FINANCIAL" SRC="https://cdn.etrade.net/1/20180206.0/images/lock_api.gif"></td><td class="api-title">Complete Authorization</td>
+</tr>
+</table>
+<br>
+                        
+                        Copy the following text code by selecting it with your cursor and pressing "Control+C" (PC) or "Command-C" (Mac).
+                        
+                        <br>
+<br>
+                        
+                        You will then be directed to the next page where you will paste the code.
+                        
+                        <br>
+<br>
+<div style="text-align:center">
+<input TYPE="text" VALUE="CHQD3
+">
+<br>
+<br>
+<br>
+<div class="api-footer">Review the <a href="#">risks &amp; limitations</a> of the Application Program Interface.</div>
+</div>
+</div>
+</div>
+</body>
+</html>

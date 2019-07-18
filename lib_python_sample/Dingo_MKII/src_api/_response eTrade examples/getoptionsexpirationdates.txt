@@ -1,0 +1,42 @@
+{
+  "optionExpireDateGetResponse": {
+    "expireDates": [
+      {
+        "year": 2011,
+        "day": 22,
+        "expiryType": "MONTHLY",
+        "month": 1
+      },
+      {
+        "year": 2011,
+        "day": 19,
+        "expiryType": "MONTHLY",
+        "month": 2
+      },
+      {
+        "year": 2011,
+        "day": 19,
+        "expiryType": "MONTHLY",
+        "month": 3
+      },
+      {
+        "year": 2011,
+        "day": 18,
+        "expiryType": "MONTHLY",
+        "month": 6
+      },
+      {
+        "year": 2012,
+        "day": 21,
+        "expiryType": "MONTHLY",
+        "month": 1
+      },
+      {
+        "year": 2013,
+        "day": 19,
+        "expiryType": "MONTHLY",
+        "month": 1
+      }
+    ]
+  }
+}

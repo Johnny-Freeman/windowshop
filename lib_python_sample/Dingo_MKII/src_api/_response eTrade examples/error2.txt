@@ -1,0 +1,165 @@
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 570, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 416, in accessMethod
+    response = ChecknHandle_ServerErrors(response)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 438, in ChecknHandle_ServerErrors
+    if Error['message'] =='oauth_problem=token_rejected':
+TypeError: string indices must be integers
+
+eTrade low-level request error detected
+
+Error in Response: {"Error":"eTrade low-level request error"}
+Exception in thread Thread-67355:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 570, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 416, in accessMethod
+    response = ChecknHandle_ServerErrors(response)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 438, in ChecknHandle_ServerErrors
+    if Error['message'] =='oauth_problem=token_rejected':
+TypeError: string indices must be integers
+
+eTrade low-level request error detected
+
+Error in Response: {"Error":"eTrade low-level request error"}
+Exception in thread Thread-67357:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 570, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 416, in accessMethod
+    response = ChecknHandle_ServerErrors(response)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 438, in ChecknHandle_ServerErrors
+    if Error['message'] =='oauth_problem=token_rejected':
+TypeError: string indices must be integers
+
+eTrade low-level request error detected
+
+Error in Response: {"Error":"eTrade low-level request error"}
+Exception in thread Thread-67358:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 570, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 416, in accessMethod
+    response = ChecknHandle_ServerErrors(response)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 438, in ChecknHandle_ServerErrors
+    if Error['message'] =='oauth_problem=token_rejected':
+TypeError: string indices must be integers
+
+Warning: Issue with grabbing https://api.iextrading.com/1.0/stock/marke...) info
+rmation
+
+Error in Response: {"Error":"Warning: Issue with grabbing https://api.iextrading
+.com/1.0/stock/marke...) information"}
+eTrade low-level request error detected
+
+Error in Response: {"Error":"eTrade low-level request error"}
+Exception in thread Thread-67359:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 570, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 416, in accessMethod
+    response = ChecknHandle_ServerErrors(response)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 438, in ChecknHandle_ServerErrors
+    if Error['message'] =='oauth_problem=token_rejected':
+TypeError: string indices must be integers
+
+eTrade low-level request error detected
+
+Error in Response: {"Error":"eTrade low-level request error"}
+Exception in thread Thread-67360:
+Traceback (most recent call last):
+  File "E:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "E:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\utils\framewo
+rk\framework_pythreadpool.py", line 7, in helper_callbackFunction
+    respholding_obj.responses[i] = function(*args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 602, in Get_25batchString
+    string_page = GET_25batch(ticks, detailFlag, requestRawData=True)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_wr
+apper_rev5.py", line 559, in GET_25batch
+    return etrade.getQuote(str_ticks, detailFlag, requestRawData=requestRawData)
+
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 570, in getQuote
+    return accessMethod(url, *args, **kwargs)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 416, in accessMethod
+    response = ChecknHandle_ServerErrors(response)
+  File "F:\WORKSPACE\__TEMP_server quick backup\Dingo_MKII\src_api\api_eTrade_re
+v4.py", line 438, in ChecknHandle_ServerErrors
+    if Error['message'] =='oauth_problem=token_rejected':
+TypeError: string indices must be integers
