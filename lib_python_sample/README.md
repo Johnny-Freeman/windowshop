@@ -12,3 +12,9 @@ DINGO - Dingo_MKII
 	DINGO is intented to showcase my understanding of REST, python thread/process management, object orientated.
 	
 	Newer ongoing version (not on git) is integrated into a python server built on top of memcached and postgresql, with simple load balancing.
+	
+NeuralNet_Bayesian_Classes - Machine Learning Library
+	
+	Newer addition to Dingo_financial_data. Sets up full mathematical and neural net framework for pattern recognition. Training methods have intentionally been left out.
+	
+	Showcases my understanding of discrete Bayesian statistics and application to pattern recognition.

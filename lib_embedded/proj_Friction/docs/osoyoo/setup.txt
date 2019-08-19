@@ -1,0 +1,17 @@
+Use "Arduino Nano"
+Using Atmel Atmega328P-AU MCU "mini" board
+
+
+Follow EXACTLY for win7
+
+
+Getting CH340G USB chipset working
+1) Extract CH340G drivers.zip to locale
+2) Disable window's automatic driver lookup (saves time, not a big deal, windows will install wrong driver)
+3) Plug in NANO
+4) Navigate to device manager and COM#
+5) admin rights: update driver
+6) Search for driver files in ~locale//CH341SER/, not the /INSTALL directory
+7) Finished.
+
+Bootloader?
