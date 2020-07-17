@@ -1,0 +1,28 @@
+/*******************************************************************************
+BEAR is an animal pun for BARE
+	(as in this provides a bare object oriented approach to RESTFUL-like requests)
+********************************************************************************/
+	
+Packet HDLC structure:
+	<GET/POST>	command
+	<metadata passed from client>
+	<parameters>
+	<error checksum>
+	
+Client Handler:
+	When you send data to BEAR server, handler give caller a request handle(object)
+	client handle, tracks:
+			original request
+			success of receipt (check response, async)
+			reply
+			retry
+			timeout 
+			(allowing async handling of request ticket)
+			
+
+Server Handler:
+	waits for connection, spins off connection handler (object) for handling:
+		<metadata>
+			handle
+			payload
+		original request from client

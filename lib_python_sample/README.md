@@ -1,8 +1,11 @@
+BEAR
+	Demonstrates low level socket ability. Written and deployed in REST-like envronments to allow network requests between data applications. 
+
 FRAMEWORK - "framework"
 
-	General user library wrote to handle tread/process, time, object creation. Written for Python 2.7.
+	General user library wrote to experiment with tread/process handling. Written for Python 2.7.
 	
-	FRAMEWORK is intented to showcase my understanding of using non-blocking methods and python imports.
+	FRAMEWORK is depreciated and is intented to display 27 capabilities. Techniques are depreciated.
 
 DINGO - Dingo_MKII
 
