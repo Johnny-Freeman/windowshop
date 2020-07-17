@@ -1,6 +1,6 @@
 BEAR
 
-	Demonstrates low level socket ability. Written and deployed in REST-like envronments to allow network requests between data applications. 
+	Demonstrates low level socket ability. Written and deployed in REST-like envronments to allow async network requests between data applications. 
 
 FRAMEWORK - "framework"
 
@@ -22,3 +22,9 @@ NeuralNet_Bayesian_Classes - Machine Learning Library
 	Newer addition to Dingo_financial_data. Sets up full mathematical and neural net framework for pattern recognition. Training methods have intentionally been left out.
 	
 	Showcases my understanding of discrete Bayesian statistics and application to pattern recognition.
+	
+WORLD CLOCK
+
+	Extensive clock library built on top of built-in datetime and pytz. Properly takes timepoint in any timezone and maps to any other timezone, with proper handling of DST.
+	
+	Deployed by Apsistech payroll [portal](http://admin.apsistech.com:5000/login?next=%2F) and market data wrangler.
