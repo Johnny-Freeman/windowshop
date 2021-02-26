@@ -22,7 +22,6 @@ def get_tasklog_filename():
 	frame = inspect.stack()[-1]
 	module = inspect.getmodule(frame[0])
 
-	## WIP , need to truncate directory! without filename
 	root_file = ""
 	if not tasklog_location:
 		root_file = os.path.dirname(os.path.abspath(module.__file__)) + _default_tasklog
@@ -234,7 +233,8 @@ class QT_Custom_Dialog(QDialog):
 		self.setLayout(layout) # << composition method 
 	
 	def result(self):
-		# this may not be the best method to do this, look into QInputDialog's source code to see how they do it!
+		# this may not be the best method to do this
+		# looked into QInputDialog's source code to see how they do it, but this is better
 		result = super().result()
 		if result == True:
 			return self.text_input_1.text(), True
@@ -533,6 +533,11 @@ class Nanny_App():
 			self.save_tasklog()
 			self.update_display()
 		
+			# Check if empty, if so go to next task
+			if self.tasknote == None:
+				self.next_task()
+		
+		
 		else:
 			print("boo, no new task!")
 			pass
@@ -566,9 +571,6 @@ class Nanny_App():
 		self.next_task()
 		
 	def next_task(self):
-		# if you hit next btn, you just procastinated!
-		self.procrastinate()
-	
 		self.tasknote = self.tasklog.get_task()
 		if self.tasknote == None:
 			self.window.lookup["lbl_totaltasks_text"].setText(str(0))
@@ -579,6 +581,8 @@ class Nanny_App():
 			self.window.lookup["lbl_procrastination_counter_text"].setText("NaN")
 			
 		else:
+			# if you hit next btn, you just procastinated!
+			self.procrastinate()
 			self.update_display()
 	
 	def show(self):

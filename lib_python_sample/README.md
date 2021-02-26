@@ -24,11 +24,19 @@ DINGO - Dingo_MKII
 	
 	Showcases understanding of REST, python thread/process management, object orientated.
 	
-NeuralNet_Bayesian_Classes - Machine Learning Library
+Neural_Net_Bayesian_Class_CPU
 	
-	Newer addition to Dingo_financial_data. Sets up full mathematical and neural net framework for pattern recognition. Training methods have intentionally been left out.
+	Older purely CPU implementation of a bayesian nodes.
+
+TensorFlow_classes
 	
-	Showcases understanding of discrete Bayesian statistics.
+	Newer implementation of Bayesian Nodes, but using the Tensorflow framework.
+	
+Taskmaster
+	
+	Small PyQT program written to provide a GUI to an application manager backend.
+	
+	Self explanatory when ran. Functions as a task wheel.
 	
 WORLD CLOCK
 
